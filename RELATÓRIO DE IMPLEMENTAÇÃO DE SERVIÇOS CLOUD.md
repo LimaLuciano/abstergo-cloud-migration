@@ -1,14 +1,16 @@
 # RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
 Data: 01/08/2025
+
 Empresa: Abstergo Industries
+
 Responsável: Luciano Lima
 
 ## Introdução
 Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por Luciano Lima. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos na operação de distribuição farmacêutica.
 
 ## Descrição do Projeto
-O projeto de implementação de ferramentas foi dividido em 3 etapas:
+O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos específicos. A seguir, serão descritas as etapas do projeto:
 
 ### Etapa 1: Amazon EC2 (Elastic Compute Cloud)
 - **Foco**: Máquinas virtuais sob demanda;
@@ -32,4 +34,5 @@ A implementação destas ferramentas na Abstergo Industries tem como esperado um
 Assinatura do Responsável pelo Projeto:  
 
 Luciano Lima
+
 Analista de Sistemas
